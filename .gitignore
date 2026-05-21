@@ -1,0 +1,11 @@
+.vscode/
+build/
+target/
+
+# ---------- Local data backups ----------
+data/menu.csv.~*
+
+# ---------- Local-only configuration ----------
+.env
+.env.local
+*.local
